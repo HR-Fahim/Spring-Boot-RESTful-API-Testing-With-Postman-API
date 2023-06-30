@@ -1,6 +1,6 @@
 # About
 
-This tutorial demonstrates how to build a simple RESTful API using the Spring Boot framework, display the user data on an HTML page, and test it
+This demonstrates how to build a simple RESTful API using the Spring Boot framework, display the user data on an HTML page, and test it
 with Postman API.
 
 ## Prerequisites
