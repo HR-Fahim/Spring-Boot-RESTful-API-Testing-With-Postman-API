@@ -5,7 +5,7 @@ with Postman API.
 
 ## Prerequisites
 
-Before starting this tutorial, make sure you have the following:
+Before starting this, make sure you have the following:
 
 - Java Development Kit (JDK) installed
 - Visual Studio Code (or any other IDE) installed
